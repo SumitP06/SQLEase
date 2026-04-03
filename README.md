@@ -1,1 +1,1 @@
-# SQLEase
+SQLEase Frontend
